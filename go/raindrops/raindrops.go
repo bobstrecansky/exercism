@@ -1,8 +1,6 @@
 package raindrops
 
-import (
-	"strconv"
-)
+import "strconv"
 
 // Convert - AKA Why did they try and cover up FizzBuzz?
 func Convert(in int) (out string) {
